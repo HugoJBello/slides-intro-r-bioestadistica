@@ -264,3 +264,9 @@ y dado que el p-valor es menor que el nivel de significación extraeríamos que 
 
 # Referencias:
 - Using R for Biostatistics, doi:10.1007/978-3-030-62404-0. Thomas MacFarland, Jan M. Yates.
+
+# Materiales
+Los materiales de esta charla están disponibles en:
+
+
+[https://github.com/HugoJBello/materiales-charla-introduccion-r-bioestadistica](https://github.com/HugoJBello/materiales-charla-introduccion-r-bioestadistica)
